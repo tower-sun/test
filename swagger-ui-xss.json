@@ -1,8 +1,8 @@
 {
-    "url": "http:///test.yaml",
+    "url": "https://raw.githubusercontent.com/tower-sun/test/main/swagger-ui-xss.yaml",
     "urls": [
         {
-            "url": "http:///test.yaml",
+            "url": "https://raw.githubusercontent.com/tower-sun/test/main/swagger-ui-xss.yaml",
             "name": "Foo"
         }
     ]
